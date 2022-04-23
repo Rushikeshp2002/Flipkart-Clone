@@ -1,0 +1,28 @@
+.all-text-center{
+    text-align: center;
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+}
+
+.btn{
+    width: 60px;
+    height: 30px;
+    border: 2px solid rgb(127, 171, 253);
+    background-color: var(--main-bg-color);
+    color: white;
+    font-style: 'Ubuntu', sans-serif;
+    padding: 2px 2px;
+    border-radius: 6px;
+    font-weight: 600;
+}
+button:hover{
+    border: 2px solid rgb(165, 192, 228);
+}
+.m-y-2{
+    margin: 26px 284px;
+}
+.m-y-1{
+    margin: 5px 0px;
+}
+
